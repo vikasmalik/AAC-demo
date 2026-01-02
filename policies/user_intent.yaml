@@ -1,0 +1,3 @@
+allowed_resources:
+  - sales.csv
+purpose: "Summarize daily sales performance"
