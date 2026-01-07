@@ -11,8 +11,10 @@ This demo illustrates the new concept of Ambient Authority Confusion Problem for
         pip install -r requirements.txt
 ```
 
-**2. Ambient Authority Confusion Demo architecture:
+**2. Ambient Authority Confusion Demo architecture:**
+
         ![Ambient-Authority-Confusion-Demo](Ambient-Authority-Confusion-Demo.png)
+
 **3. Run Streamlit:**
 
 ```bash
@@ -21,7 +23,7 @@ This demo illustrates the new concept of Ambient Authority Confusion Problem for
 
 **3. Enter a user prompt in the Streamlit UI.**
 
-Demo Concept
+**Demo Concept :**
 
 - User intent is explicitly defined.
 - AI agent has broad system access (ambient authority).
