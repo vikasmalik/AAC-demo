@@ -1,7 +1,7 @@
 
 # Ambient Authority Confusion Demo
 
-This demo illustrates the Confused Deputy Problem for AI agents.
+This demo illustrates the new concept of Ambient Authority Confusion Problem for AI agents.
 
 ## How to Run
 
@@ -11,10 +11,13 @@ This demo illustrates the Confused Deputy Problem for AI agents.
         pip install -r requirements.txt
 ```
 
-**2. Run Streamlit:**
+**2. Ambient Authority Confusion Demo architecture:
+        ![Ambient-Authority-Confusion-Demo](Ambient-Authority-Confusion-Demo.png)
+**3. Run Streamlit:**
 
+```bash
         streamlit run app.py
-
+```
 
 **3. Enter a user prompt in the Streamlit UI.**
 
@@ -25,9 +28,4 @@ Demo Concept
 - Agent can act beyond user-intended scope.
 - No IAM exploits or cloud services required.
 
-----> This demonstrates Ambient Authority Confusion.
-
-Debug:
-LF will be replaced by CRLF
-
-        git config --local core.autocrlf false
+This demonstrates Ambient Authority Confusion.
