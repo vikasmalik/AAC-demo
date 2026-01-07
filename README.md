@@ -13,7 +13,7 @@ This demo illustrates the new concept of Ambient Authority Confusion Problem for
 
 **2. Ambient Authority Confusion Demo architecture:**
 
-        ![Ambient-Authority-Confusion-Demo](Ambient-Authority-Confusion-Demo.png)
+![Ambient-Authority-Confusion-Demo](Ambient-Authority-Confusion-Demo.png)
 
 **3. Run Streamlit:**
 
